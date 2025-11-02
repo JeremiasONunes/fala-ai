@@ -116,14 +116,14 @@ python main.py
 
 ### **💰 Lista de Componentes**
 
-| **Item** | **Qtd** | **Especificação** | **💰 Preço Est.** |
-|:--------:|:-------:|:-----------------:|:------------------:|
-| 🔧 **Arduino Uno R3** | `1x` | ATmega328P, 5V | `R$ 50` |
-| ⚙️ **Servo SG90** | `5x` | 180°, 2.5kg/cm | `R$ 60` |
-| 🔌 **Fonte 5V/2A** | `1x` | Chaveada | `R$ 25` |
-| 🖐️ **Mão Robótica 3D** | `1x` | PLA, ~300g | `R$ 40` |
-| 🔗 **Protoboard + Jumpers** | `1x` | 830 pontos | `R$ 15` |
-| | | **💎 TOTAL** | **`R$ 190`** |
+| **Item** | **Qtd** |
+|:--------:|:-------:|
+| 🔧 **Arduino Uno R3** | `1x` |
+| ⚙️ **Servo SG90** | `5x` | 
+| 🔌 **Fonte 5V/2A** | `1x` |
+| 🖐️ **Mão Robótica 3D** | `1x` | 
+| 🔗 **Protoboard + Jumpers** | `1x` |
+
 
 ### **🔌 Esquema de Ligação**
 
@@ -279,7 +279,7 @@ numpy>=1.21.0             # 🔢 Processamento numérico
 </p>
 
 <p align="center">
-  <a href="[https://github.com](https://github.com/JeremiasONunes)"><img src="https://img.shields.io/badge/GitHub-jeremias--maya-white?style=for-the-badge&logo=github&color=191680" alt="GitHub"/></a>
+  <a href="[https://github.com](https://github.com/JeremiasONunes)"><img src="https://img.shields.io/badge/GitHub-jeremias--O--Nunes-white?style=for-the-badge&logo=github&color=191680" alt="GitHub"/></a>
   <a href="[https://linkedin.com](https://www.linkedin.com/in/jeremiasonunes/)"><img src="https://img.shields.io/badge/LinkedIn-Jeremias%20Maya-white?style=for-the-badge&logo=linkedin&color=191680" alt="LinkedIn"/></a>
   <a href="mailto:jeremiasonunes@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-white?style=for-the-badge&logo=gmail&color=191680" alt="Email"/></a>
 </p>
