@@ -1,0 +1,6 @@
+2025-11-02 03:04:29,542 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:04:29,542 - root - INFO - ==================================================
+2025-11-02 03:04:29,542 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:04:29,542 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:04:29,543 - modules.serial_communication - ERROR -  Erro na conexão: could not open port 'COM5': PermissionError(13, 'Acesso negado.', None, 5)
+2025-11-02 03:04:29,543 - root - ERROR -  Erro na inicialização: could not open port 'COM5': PermissionError(13, 'Acesso negado.', None, 5)

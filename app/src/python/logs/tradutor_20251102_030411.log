@@ -1,0 +1,6 @@
+2025-11-02 03:04:11,717 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:04:11,717 - root - INFO - ==================================================
+2025-11-02 03:04:11,717 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:04:11,718 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:04:11,720 - modules.serial_communication - ERROR -  Erro na conexão: could not open port 'COM4': FileNotFoundError(2, 'O sistema não pode encontrar o arquivo especificado.', None, 2)
+2025-11-02 03:04:11,720 - root - ERROR -  Erro na inicialização: could not open port 'COM4': FileNotFoundError(2, 'O sistema não pode encontrar o arquivo especificado.', None, 2)

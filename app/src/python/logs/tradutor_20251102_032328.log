@@ -1,0 +1,33 @@
+2025-11-02 03:23:28,310 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:23:28,310 - root - INFO - ==================================================
+2025-11-02 03:23:28,310 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:23:28,310 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:23:30,330 - modules.serial_communication - INFO -  Conectado ao Arduino em COM5
+2025-11-02 03:23:30,330 - root - INFO -  Sistema inicializado com sucesso!
+2025-11-02 03:23:30,330 - root - INFO - 
+ Sistema pronto! Comandos:
+2025-11-02 03:23:30,330 - root - INFO - - Pressione ENTER para falar
+2025-11-02 03:23:30,331 - root - INFO - - Digite 'q' para sair
+2025-11-02 03:23:30,332 - root - INFO - - Digite 'test' para testar Arduino
+2025-11-02 03:23:33,993 - modules.speech_recognition_module - INFO - Ajustando para ruído ambiente...
+2025-11-02 03:23:34,995 - modules.speech_recognition_module - INFO -  Fale algo (você tem 20s)...
+2025-11-02 03:23:45,188 - modules.speech_recognition_module - INFO -  Processando...
+2025-11-02 03:23:45,803 - modules.speech_recognition_module - INFO -  Texto reconhecido: '123 TESTANDO'
+2025-11-02 03:23:54,427 - modules.serial_communication - INFO -  Enviando texto: 123 TESTANDO
+2025-11-02 03:23:59,431 - modules.serial_communication - ERROR - Erro ao enviar N: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:00,431 - modules.serial_communication - ERROR - Erro ao enviar D: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:01,432 - modules.serial_communication - ERROR - Erro ao enviar O: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:02,437 - modules.serial_communication - ERROR - Erro ao resetar servos: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:11,462 - modules.speech_recognition_module - INFO - Ajustando para ruído ambiente...
+2025-11-02 03:24:12,463 - modules.speech_recognition_module - INFO -  Fale algo (você tem 20s)...
+2025-11-02 03:24:20,565 - modules.speech_recognition_module - INFO -  Processando...
+2025-11-02 03:24:21,002 - modules.speech_recognition_module - INFO -  Texto reconhecido: 'TESTE'
+2025-11-02 03:24:25,435 - modules.serial_communication - INFO -  Enviando texto: TESTE
+2025-11-02 03:24:25,435 - modules.serial_communication - ERROR - Erro ao enviar T: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:26,436 - modules.serial_communication - ERROR - Erro ao enviar E: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:27,437 - modules.serial_communication - ERROR - Erro ao enviar S: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:28,438 - modules.serial_communication - ERROR - Erro ao enviar T: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:29,439 - modules.serial_communication - ERROR - Erro ao enviar E: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:30,441 - modules.serial_communication - ERROR - Erro ao resetar servos: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:24:33,925 - modules.serial_communication - INFO - Conexão serial fechada
+2025-11-02 03:24:33,925 - root - INFO -  Sistema encerrado

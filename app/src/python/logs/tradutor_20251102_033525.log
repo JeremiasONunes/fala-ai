@@ -1,0 +1,26 @@
+2025-11-02 03:35:25,314 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:35:25,314 - root - INFO - ==================================================
+2025-11-02 03:35:25,315 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:35:25,315 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:35:27,327 - modules.serial_communication - INFO -  Conectado ao Arduino em COM5
+2025-11-02 03:35:27,327 - root - INFO -  Sistema inicializado com sucesso!
+2025-11-02 03:35:27,327 - root - INFO - 
+ Sistema pronto! Comandos:
+2025-11-02 03:35:27,327 - root - INFO - - Pressione ENTER para falar
+2025-11-02 03:35:27,327 - root - INFO - - Digite 'q' para sair
+2025-11-02 03:35:27,327 - root - INFO - - Digite 'test' para testar Arduino
+2025-11-02 03:35:29,730 - modules.speech_recognition_module - INFO - Ajustando para ruído ambiente...
+2025-11-02 03:35:30,731 - modules.speech_recognition_module - INFO -  Fale algo (você tem 20s)...
+2025-11-02 03:35:33,457 - modules.speech_recognition_module - INFO -  Processando...
+2025-11-02 03:35:33,910 - modules.speech_recognition_module - INFO -  Texto reconhecido: 'TESTE'
+2025-11-02 03:35:37,435 - modules.serial_communication - INFO -  Enviando texto: TESTE
+2025-11-02 03:35:39,939 - modules.serial_communication - ERROR - Erro no reset entre letras: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:39,939 - modules.serial_communication - ERROR - Erro ao enviar S: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:40,940 - modules.serial_communication - ERROR - Erro no reset entre letras: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:40,940 - modules.serial_communication - ERROR - Erro ao enviar T: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:41,940 - modules.serial_communication - ERROR - Erro no reset entre letras: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:41,940 - modules.serial_communication - ERROR - Erro ao enviar E: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:42,941 - modules.serial_communication - ERROR - Erro no reset entre letras: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:35:42,945 - modules.serial_communication - ERROR - Erro ao resetar servos: WriteFile failed (PermissionError(13, 'Acesso negado.', None, 5))
+2025-11-02 03:36:27,911 - modules.serial_communication - INFO - Conexão serial fechada
+2025-11-02 03:36:27,911 - root - INFO -  Sistema encerrado

@@ -1,0 +1,19 @@
+2025-11-02 03:32:03,931 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:32:03,931 - root - INFO - ==================================================
+2025-11-02 03:32:03,931 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:32:03,931 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:32:05,944 - modules.serial_communication - INFO -  Conectado ao Arduino em COM5
+2025-11-02 03:32:05,945 - root - INFO -  Sistema inicializado com sucesso!
+2025-11-02 03:32:05,945 - root - INFO - 
+ Sistema pronto! Comandos:
+2025-11-02 03:32:05,945 - root - INFO - - Pressione ENTER para falar
+2025-11-02 03:32:05,996 - root - INFO - - Digite 'q' para sair
+2025-11-02 03:32:05,996 - root - INFO - - Digite 'test' para testar Arduino
+2025-11-02 03:32:08,523 - modules.speech_recognition_module - INFO - Ajustando para ruído ambiente...
+2025-11-02 03:32:09,524 - modules.speech_recognition_module - INFO -  Fale algo (você tem 20s)...
+2025-11-02 03:32:12,170 - modules.speech_recognition_module - INFO -  Processando...
+2025-11-02 03:32:12,628 - modules.speech_recognition_module - INFO -  Texto reconhecido: 'TESTE'
+2025-11-02 03:32:16,784 - modules.serial_communication - INFO -  Enviando texto: TESTE
+2025-11-02 03:32:20,556 - modules.serial_communication - ERROR - Erro ao resetar servos: 'utf-8' codec can't decode byte 0xfd in position 5: invalid start byte
+2025-11-02 03:33:43,506 - modules.serial_communication - INFO - Conexão serial fechada
+2025-11-02 03:33:43,506 - root - INFO -  Sistema encerrado

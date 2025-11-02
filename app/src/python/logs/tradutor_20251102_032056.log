@@ -1,0 +1,18 @@
+2025-11-02 03:20:56,275 - root - INFO -  TRADUTOR DE VOZ PARA LIBRAS v1.0.0
+2025-11-02 03:20:56,275 - root - INFO - ==================================================
+2025-11-02 03:20:56,275 - root - INFO - Inicializando reconhecimento de voz...
+2025-11-02 03:20:56,276 - root - INFO - Conectando ao Arduino...
+2025-11-02 03:20:58,285 - modules.serial_communication - INFO -  Conectado ao Arduino em COM5
+2025-11-02 03:20:58,285 - root - INFO -  Sistema inicializado com sucesso!
+2025-11-02 03:20:58,285 - root - INFO - 
+ Sistema pronto! Comandos:
+2025-11-02 03:20:58,285 - root - INFO - - Pressione ENTER para falar
+2025-11-02 03:20:58,286 - root - INFO - - Digite 'q' para sair
+2025-11-02 03:20:58,286 - root - INFO - - Digite 'test' para testar Arduino
+2025-11-02 03:21:30,201 - modules.speech_recognition_module - INFO - Ajustando para ruído ambiente...
+2025-11-02 03:21:31,202 - modules.speech_recognition_module - INFO -  Fale algo (você tem 20s)...
+2025-11-02 03:21:33,390 - modules.speech_recognition_module - INFO -  Processando...
+2025-11-02 03:21:33,855 - modules.speech_recognition_module - INFO -  Texto reconhecido: 'OI'
+2025-11-02 03:22:02,642 - modules.serial_communication - INFO -  Enviando texto: OI
+2025-11-02 03:23:13,597 - modules.serial_communication - INFO - Conexão serial fechada
+2025-11-02 03:23:13,597 - root - INFO -  Sistema encerrado
