@@ -274,14 +274,14 @@ numpy>=1.21.0             # 🔢 Processamento numérico
 ## 👨💻 **Desenvolvido por**
 
 <p align="center">
-  <strong>🚀 Jeremias Maya</strong><br>
+  <strong>🚀 Jeremias O Nunes</strong><br>
   <em>Desenvolvedor Full-Stack & Entusiasta de Tecnologia Assistiva</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-jeremias--maya-white?style=for-the-badge&logo=github&color=191680" alt="GitHub"/></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Jeremias%20Maya-white?style=for-the-badge&logo=linkedin&color=191680" alt="LinkedIn"/></a>
-  <a href="mailto:contato@example.com"><img src="https://img.shields.io/badge/Email-Contato-white?style=for-the-badge&logo=gmail&color=191680" alt="Email"/></a>
+  <a href="[https://github.com](https://github.com/JeremiasONunes)"><img src="https://img.shields.io/badge/GitHub-jeremias--maya-white?style=for-the-badge&logo=github&color=191680" alt="GitHub"/></a>
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/jeremiasonunes/)"><img src="https://img.shields.io/badge/LinkedIn-Jeremias%20Maya-white?style=for-the-badge&logo=linkedin&color=191680" alt="LinkedIn"/></a>
+  <a href="mailto:jeremiasonunes@gmail.com"><img src="https://img.shields.io/badge/Email-Contato-white?style=for-the-badge&logo=gmail&color=191680" alt="Email"/></a>
 </p>
 
 ---
