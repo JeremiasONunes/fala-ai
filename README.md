@@ -297,12 +297,6 @@ numpy>=1.21.0             # 🔢 Processamento numérico
 
 ## 📄 **Licença**
 
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Licença-MIT-brightgreen?style=for-the-badge&color=191680" alt="Licença MIT"/>
-</p>
-
 <p align="center">
   <strong>✅ Uso comercial não permitido </strong> • <strong>✅ Modificação permitida</strong> • <strong>✅ Distribuição não permitida</strong>
 </p>
