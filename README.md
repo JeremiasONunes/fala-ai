@@ -341,5 +341,5 @@ numpy>=1.21.0             # 🔢 Processamento numérico
 <p align="center">
   <strong>🌟 Obrigado por contribuir para a acessibilidade e inclusão!</strong><br>
   <em>"Tecnologia que conecta pessoas e quebra barreiras"</em><br><br>
-  <strong>Fala-AI</strong> • <em>Versão v1.0</em> • <em>2024</em>
+  <strong>Fala-AI</strong> • <em>Versão v1.0</em> • <em>2025</em>
 </p>
