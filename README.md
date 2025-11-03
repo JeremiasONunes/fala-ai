@@ -298,7 +298,7 @@ numpy>=1.21.0             # 🔢 Processamento numérico
 ## 📄 **Licença**
 
 <p align="center">
-  <strong>✅ Uso comercial não permitido </strong> • <strong>✅ Modificação permitida</strong> • <strong>✅ Distribuição não permitida</strong>
+  <strong>🚫 Uso comercial não permitido </strong> • <strong>✅ Modificação permitida</strong> • <strong>🚫 Distribuição não permitida</strong>
 </p>
 
 ---
